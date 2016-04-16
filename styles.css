@@ -1,0 +1,15 @@
+body{
+    font-family: 'Bangers',cursive;
+}
+.red{
+    color:red;
+}
+.container{
+    padding:5px;
+    background:green;
+    margin:25px;
+}
+
+#bluecontainer{
+    background:blue ;
+}
